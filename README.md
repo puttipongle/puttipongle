@@ -6,6 +6,22 @@ Student in RMUTL University
 
 I've been learning Flutter
 
+EXPERIENCE
+----------
+
+ตุลาคม 2561 - มีนาคม 2562 การฝึกงานระดับประกาศนียบัตรวิชาชีพ
+เคยฝึกงานในตำแหน่ง Web Developer ที่แผนกเทคนิคคอมพิวเตอร์ วิทยาลัยเทคนิคแพร่ เป็นการทำงานเกี่ยวกับการสร้างเว็บไซต์แฟ้มสะสมผลงาน โดยใช้ HTML CSS PHP MySQL
+
+เมษายน 2564 - กันยายน 2564 การฝึกงานระดับประกาศนียบัตรวิชาชีพชั้นสูง
+เคยฝึกงานในตำแหน่ง Web Editor ที่บริษัท สมาร์ทไอเดียดิจิตอลกรุ๊ป จำกัด เป็นการทำงานเกี่ยวกับการตลาดออนไลน์ Google, Facebook ในตำแหน่ง Web Editor จะแก้ไขเว็บไซต์ตามความต้องการของลูกค้า โดยใช้ Wordpress , WIX หรือ HTML CSS 
+
+JOBS & INTERESTED
+-----------------
+1. Front End Developer
+2. Back End Developer
+3. Wordpress Developer
+4. Graphic Designer
+
 * ✉️  You can contact me at [puttipong.le0695@gmail.com](mailto:puttipong.le0695@gmail.com)
 
 ### Skills
